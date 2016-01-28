@@ -1,3 +1,7 @@
-# OSS_MathProject
+# [OSS Practice] MathProject
 
-how to install
+# How to install
+  Eclipse
+
+# Issue
+  1. 사칙연산
